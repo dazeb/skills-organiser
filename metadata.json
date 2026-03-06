@@ -1,0 +1,5 @@
+{
+  "name": "Local Agent & Skill Manager",
+  "description": "A desktop GUI to scan, organize, validate, and AI-enhance Markdown-based AI agents and skills.",
+  "requestFramePermissions": []
+}
